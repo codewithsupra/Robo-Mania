@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Robo-Mania/static/css/main.d5843d62.css",
+    "main.js": "/Robo-Mania/static/js/main.f606822e.js",
+    "static/media/SEGA.woff": "/Robo-Mania/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Robo-Mania/index.html",
+    "main.d5843d62.css.map": "/Robo-Mania/static/css/main.d5843d62.css.map",
+    "main.f606822e.js.map": "/Robo-Mania/static/js/main.f606822e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5843d62.css",
+    "static/js/main.f606822e.js"
+  ]
+}
